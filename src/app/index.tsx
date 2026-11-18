@@ -9,7 +9,6 @@ import {
   StyleSheet,
   KeyboardAvoidingView,
   Platform,
-  StatusBar,
   Alert,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -158,11 +157,6 @@ export default function HomeScreen() {
 
   return (
     <SafeAreaView style={styles.safeArea}>
-      <StatusBar
-        barStyle="light-content"
-        backgroundColor="#101827"
-      />
-
       <KeyboardAvoidingView
         style={styles.container}
         behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
