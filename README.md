@@ -1,4 +1,4 @@
-# MyTaskList App ✨
+# MyTaskList App 
 
 ## Identitas Mahasiswa
 - **Nama:** Gladys Huang
@@ -21,7 +21,17 @@ MyTaskList adalah aplikasi manajemen tugas berbasis mobile yang dibuat menggunak
 
 Berikut merupakan screenshot aplikasi MyTaskList yang dijalankan pada perangkat fisik menggunakan Expo Go.
 
-![Screenshot MyTaskList](screenshots/mytasklist-home.jpg)
+### Tampilan Utama
+![Home] <img width="738" height="1600" alt="tampilanutama" src="https://github.com/user-attachments/assets/780f3feb-7220-4ed3-9911-c98bf1aae46b" />
+
+### Daftar Tugas
+![Tasks] <img width="738" height="1600" alt="daftartugas" src="https://github.com/user-attachments/assets/eba72c75-bc8b-43c7-9d8c-924ff265244e" />
+
+### Tugas Selesai
+![Completed] <img width="738" height="1600" alt="tugasselesai" src="https://github.com/user-attachments/assets/876ef027-4a34-4a24-ae9d-14d35bbc2490" />
+
+### Filter Tugas
+![Filter] <img width="738" height="1600" alt="filtertugas" src="https://github.com/user-attachments/assets/afb345cf-1966-47f7-9c02-5d0f2731ec72" />
 
 ## Cara Menjalankan Project
 
