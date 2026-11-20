@@ -66,7 +66,7 @@ Berikut merupakan screenshot aplikasi MyTaskList yang dijalankan pada perangkat 
 ## Link Project
 
 - **GitHub Repository:** https://github.com/gladys-beep/MyTaskList-App.git
-- **Expo Snack:** https://github.com/gladys-beep/MyTaskList-App.git
+- **Expo Snack:** https://snack.expo.dev/@gladys_expo/my-task-list-app
 
 ## Link Google Docs TP14
 https://docs.google.com/document/d/1TMlqmjwc3cR9ETPLhUBDUH8qLThSLZ9dOOuntUCVjuw/edit?usp=sharing
